@@ -67,21 +67,21 @@
         <!-- Feature Tabs -->
         <div class="row feture-tabs" data-aos="fade-up">
             <div class="col-lg-6">
-                <h3>Bagian - bagian pada STMJ</h3>
+                <h3>Penjelasan singkat</h3>
 
                 <!-- Tabs -->
                 <ul class="nav nav-pills mb-3">
                     <li>
-                        <a class="nav-link active" data-bs-toggle="pill" href="#tab1">STMJ Sender</a>
+                        <a class="nav-link active" data-bs-toggle="pill" href="#tab1">Aplikasi Mobile</a>
                     </li>
                     <li>
-                        <a class="nav-link" data-bs-toggle="pill" href="#tab2">STMJ Repeater</a>
+                        <a class="nav-link" data-bs-toggle="pill" href="#tab2">Aplikasi WEB</a>
                     </li>
                     <li>
-                        <a class="nav-link" data-bs-toggle="pill" href="#tab3">STMJ Receiver</a>
+                        <a class="nav-link" data-bs-toggle="pill" href="#tab3">Aplikasi Desktop</a>
                     </li>
                     <li>
-                        <a class="nav-link" data-bs-toggle="pill" href="#tab4">Aplikasi STMJ</a>
+                        <a class="nav-link" data-bs-toggle="pill" href="#tab4">IoT</a>
                     </li>
                 </ul><!-- End Tabs -->
 
@@ -90,21 +90,21 @@
 
                     <div class="tab-pane fade show active" id="tab1">
                         <p>
-                            STMJ Sender merupakan bagian pada STMJ yang berfungsi untuk menerima data koordinat dari satelit dan suhu tubuh dari penjelajah. Data tersebut akan ditransmisikan melalui gelombang radio.
+                            Aplikasi mobile (Mobile Apps) yaitu aplikasi yang dibuat untuk perangkat-perangkat bergerak (Mobile) seperti : Smartphone, SmartWatch, Tablet, dan lainnya.
                         </p>
                         <div class="d-flex align-items-center mb-2">
                             <i class="bi bi-check2"></i>
-                            <h4>Mengirim data lokasi dan kondisi penjelajah</h4>
+                            <h4>User Interface dan User Experiece (UI/UX)</h4>
                         </div>
                         <p>
-                            Pengiriman data lokasi berupa koordinat dan suhu tubuh penjelajah secara realtime melalui gelombang radio.
+                            Aplikasi seluler bisanya cukup menarik dan sangat mudah digunakan.
                         </p>
                         <div class="d-flex align-items-center mb-2">
                             <i class="bi bi-check2"></i>
-                            <h4>Mengirim peringatan SOS</h4>
+                            <h4>Offline Mode</h4>
                         </div>
                         <p>
-                            STMJ Sender dapat mengirim peringatan SOS, guna memeberitahu pihak pengelola bila terjadi kecelakaan dan membutuhkan penanganan secepat mungkin.
+                            Ada beberapa aplikasi yang bisa digunakan tanpa harus terkoneksi internet
                         </p>
                     </div><!-- End Tab 1 Content -->
 
@@ -180,7 +180,7 @@
             </div>
 
             <div class="col-lg-6">
-                <img src="assets/vector/bg-track.png" class="img-fluid" alt="">
+                <img src="../../../assets/vector/bg_developer.png" class="img-fluid" alt="">
             </div>
 
         </div><!-- End Feature Tabs -->
