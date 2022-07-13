@@ -1,0 +1,13 @@
+{
+    "name": "wahid/stmj-profile",
+    "description": "This is a Profile WEB for Soul Tracking Mobile Junction",
+    "require": {
+        "kreait/firebase-php": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "DECode.studio",
+            "email": "decode.std@gmail.com"
+        }
+    ]
+}
