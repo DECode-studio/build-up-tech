@@ -5,7 +5,7 @@
 
         <header class="section-header">
             <h2>Fitur</h2>
-            <p>STMJ hadir dengan Fitur seperti:</p>
+            <p>Jasa yang kami tawarkan</p>
         </header>
 
         <div class="row">
@@ -20,42 +20,42 @@
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="200">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>Pemantauan lokasi koordinat penjelajah</h3>
+                            <h3>Pengembangan aplikasi berbasis mobile</h3>
                         </div>
                     </div>
 
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="300">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>Pemantauan suhu tubuh penjelajah</h3>
+                            <h3>Pengembangan aplikasi berbasis desktop (PC)</h3>
                         </div>
                     </div>
 
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="400">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>Pemantauan denyut nadi penjelajah</h3>
+                            <h3>Pengembangan aplikasi berbasis WEB</h3>
                         </div>
                     </div>
 
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="500">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>SOS alert trigger</h3>
+                            <h3>Pembuatan WEB Server</h3>
                         </div>
                     </div>
 
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="600">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>Pembacaan data secara offline melalui Bluetooth</h3>
+                            <h3>Pembuatan alat berbasis Microcontroller dan Macrocontroller</h3>
                         </div>
                     </div>
 
                     <div class="col-md-6" data-aos="zoom-out" data-aos-delay="700">
                         <div class="feature-box d-flex align-items-center">
                             <i class="bi bi-check"></i>
-                            <h3>Notifikasi peringatan secara realtime</h3>
+                            <h3>Internet of Things Projects</h3>
                         </div>
                     </div>
 
