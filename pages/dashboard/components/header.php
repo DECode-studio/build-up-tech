@@ -4,8 +4,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center">
-                <h1 data-aos="fade-up">Kami menawarkan solusi canggih dalam pengawasan kondisi penjelajah di alam</h1>
-                <h2 data-aos="fade-up" data-aos-delay="400">Soul Tracking Mobile Junction (STMJ) merupakan teknologi yang dapat memonitori koordinat dan kondisi penjelajah di alam</h2>
+                <h1 data-aos="fade-up">Kami menawarkan Teknologi Moderen dalam mengatasi berbagai Permasalahan Mu</h1>
+                <h2 data-aos="fade-up" data-aos-delay="400">Build Up Tech merupakan pengembang jasa teknologi yang menawarkan solusi moderen berbasis teknologi dalam mengatasi isu - isu permasalahan yang ada terkait teknologi.</h2>
                 <div data-aos="fade-up" data-aos-delay="600">
                     <div class="text-center text-lg-start">
                         <a href="#about" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">

@@ -5,8 +5,9 @@
         <a href="/" class="logo d-flex align-items-center">
             <img src="assets/logo/app_logo.png" alt="">
             <div class="col ms-3">
-                <span class="fs-5 mb-4 row">Soul Tracking Mobile</span>
-                <span class="fs-5 row">Junction</span>
+                <!-- <span class="fs-5 mb-4 row">Soul Tracking Mobile</span>
+                <span class="fs-5 row">Junction</span> -->
+                <span>Build Up Tech</span>
             </div>
         </a>
 
